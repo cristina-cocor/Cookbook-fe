@@ -1,0 +1,53 @@
+body{
+  background-image: linear-gradient(#8EC5FC,#E0C3FC);
+
+}
+html,body {
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+  }
+
+table {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #f4eafd;
+  }
+
+  .logo{
+    font-size: 50px;
+    margin-left: 20px;
+    font-family: 'Homemade Apple', cursive;
+    color: #9030eb;
+    text-decoration: none;
+}
+  
+  .example-form-field {
+    width: 200px;
+    margin-left: 50px;
+    color:#9030eb;
+  }
+
+  .mat-raised-button {
+    margin-left: 50px;
+    margin-top: 10px;
+
+  }
+
+  .searchBar{
+    margin-right: 20px;
+  }
+
+  header{
+    padding-top: 20px;
+}
+h1{
+  text-align: center;
+  margin-left: 260px;
+  margin-bottom: 20px;
+  font-family: 'Sorts Mill Goudy', serif;  
+  font-weight: bolder;
+  color:#aa5ed6;
+}
